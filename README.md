@@ -7,13 +7,8 @@
 - [x] 用户管理  
 
 ### 安装使用  
-#### 通用安装
+#### 安装
 ``安装方法: git clone https://github.com/dddinmx/PassGuardian.git``  
-#### MacOS、Linux  
-``安装方法: 下载 PassGuardian可执行文件``  
-``给予可执行权限: chmod u+x ./PassGuardian_arwin_amd64``  
-#### WINDOWS
-``安装方法: 下载 PassGuardian_win_amd64.exe文件，使用“终端”打开，若使用cmd或powershell打开会有显示错误的问题``  
 
 #### 登录  
 默认密码: admin/pass  
